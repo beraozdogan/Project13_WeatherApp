@@ -1,0 +1,13 @@
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe.config
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Properties.Resources.resources
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Form1.resources
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.CopyComplete
